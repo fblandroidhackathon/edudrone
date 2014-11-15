@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c13d755f-6655-49ac-be85-9e0323ef7ad6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/edudrone/EduDrone.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/edudrone/EduDrone.java" afterPath="$PROJECT_DIR$/src/edudrone/EduDrone.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/edudrone/EduDroneDriver.java" afterPath="$PROJECT_DIR$/src/edudrone/EduDroneDriver.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="EduDrone.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -71,7 +70,7 @@
       <file leaf-file-name="EduDroneDriver.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/edudrone/EduDroneDriver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="180" selection-end="180" vertical-scroll-proportion="0.3131524" vertical-offset="0" max-vertical-offset="479">
+            <state line="9" column="6" selection-start="198" selection-end="198" vertical-scroll-proportion="0.28183717" vertical-offset="0" max-vertical-offset="479">
               <folding />
             </state>
           </provider>
@@ -80,10 +79,19 @@
       <file leaf-file-name="EduDrone.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/edudrone/EduDrone.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="21" selection-start="280" selection-end="280" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645">
+            <state line="20" column="16" selection-start="449" selection-end="449" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="720">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CommandManager.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/YADrone/YADrone/src/de/yadrone/base/command/CommandManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="206" column="18" selection-start="6968" selection-end="6968" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="13740">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -103,8 +111,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/edudrone/TestDriver.java" />
         <option value="$PROJECT_DIR$/src/edudrone/EduDroneController.java" />
-        <option value="$PROJECT_DIR$/src/edudrone/EduDroneDriver.java" />
         <option value="$PROJECT_DIR$/src/edudrone/EduDrone.java" />
+        <option value="$PROJECT_DIR$/src/edudrone/EduDroneDriver.java" />
       </list>
     </option>
   </component>
@@ -171,6 +179,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="third-party" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EduDrone" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="edudrone" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -192,7 +214,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/third-party/yadrone_03.jar!/" />
+    <property name="last_opened_file_path" value="$USER_HOME$/YADrone/YADrone/src" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -388,7 +410,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32936507" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32936507" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -417,16 +439,44 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$PROJECT_DIR$/third-party/yadrone_03.jar!/de/yadrone/base/ARDrone.class">
+    <entry file="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar!/java/nio/Buffer.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="13" selection-start="158" selection-end="158" vertical-scroll-proportion="0.10638298" vertical-offset="0" max-vertical-offset="1470">
+        <state line="66" column="0" selection-start="1790" selection-end="1790" vertical-scroll-proportion="0.8121086" vertical-offset="586" max-vertical-offset="1065">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar!/java/lang/Object.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="20" selection-start="843" selection-end="843" vertical-scroll-proportion="0.71816283" vertical-offset="76" max-vertical-offset="555">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/third-party/yadrone_032.jar!/de/yadrone/base/command/CommandManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="48" selection-start="3090" selection-end="3090" vertical-scroll-proportion="0.0" vertical-offset="790" max-vertical-offset="2730">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/YADrone/YADrone/src/de/yadrone/base/command/FreezeCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="9" selection-start="92" selection-end="92" vertical-scroll-proportion="0.12526096" vertical-offset="0" max-vertical-offset="495">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/YADrone/YADrone/src/de/yadrone/base/command/CommandManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="206" column="18" selection-start="6968" selection-end="6968" vertical-scroll-proportion="0.0" vertical-offset="2430" max-vertical-offset="13740">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/edudrone/EduDrone.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="21" selection-start="280" selection-end="280" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645">
+        <state line="20" column="16" selection-start="449" selection-end="449" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="720">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -435,7 +485,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/edudrone/EduDroneDriver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="180" selection-end="180" vertical-scroll-proportion="0.3131524" vertical-offset="0" max-vertical-offset="479">
+        <state line="9" column="6" selection-start="198" selection-end="198" vertical-scroll-proportion="0.28183717" vertical-offset="0" max-vertical-offset="479">
           <folding />
         </state>
       </provider>
@@ -505,7 +555,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>yadrone_03</last-edited>
+          <last-edited>yadrone_032</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

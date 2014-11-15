@@ -15,6 +15,14 @@ public class EduDrone {
     mCommandManager.takeOff();
   }
 
+  public void move() {
+    mCommandManager
+        .forward(10)
+        .doFor(1000)
+        .freeze()
+        .doFor(5000);
+  }
+
   public void shutdown() {
     if (mARDrone != null) {
       mCommandManager.landing();
@@ -23,10 +31,7 @@ public class EduDrone {
   }
 
   public void wait(int millis) {
-    try {
-      Thread.sleep(millis);
-    } catch (InterruptedException e) {
-    }
+    mCommandManager.waitFor(millis);
   }
 
   @Override

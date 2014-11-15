@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="yadrone_032">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/third-party/yadrone_032.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/YADrone/YADrone/src" />
+    </SOURCES>
+  </library>
+</component>
